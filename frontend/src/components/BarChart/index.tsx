@@ -52,7 +52,6 @@ useEffect(() => {
     });
 }, []);
 
-
   const options = {
     plotOptions: {
         bar: {
